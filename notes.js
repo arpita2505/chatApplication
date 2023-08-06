@@ -1,0 +1,4 @@
+//web socket-client -server 2 way protocol
+//socket.IO is a popular JavaScript library that enables real-time, bidirectional communication between web clients (e.g., browsers) and servers. In simple terms, it allows you to build interactive web applications where data can be sent and received instantly between the server and the client without the need for constant page refreshing. event based communication
+//socket.on is used on the client-side to listen for events from the server.When a client establishes a connection with the server through socket.io, it can listen for specific events sent by the server using socket.on
+//io.on is used on the server-side to listen for events from clients. When a client establishes a connection with the server, the server can listen for specific events sent by the client using io.on.
